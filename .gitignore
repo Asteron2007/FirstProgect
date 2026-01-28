@@ -1,0 +1,14 @@
+# User-specific files
+*.[Dd]oc
+*.exe
+
+# отслеживать файл даже если он в исключении
+!3333.Doc
+
+
+#игнорировать все файлы в каталоге build
+build/
+
+
+doc/*.txt
+doc/dfdsf/readme.txt
